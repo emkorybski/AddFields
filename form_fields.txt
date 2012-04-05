@@ -1,0 +1,5 @@
+First name() -- text -- fname -- value1;
+Second name() -- text -- sname -- value2;
+Phone() -- text -- phone -- value3;
+Company() -- text -- company -- value4;
+Email() -- text -- email -- value5;
